@@ -1,0 +1,15 @@
+export const COLORS = {
+  primary: '#02B6B6',
+  primaryDark: '#027878',
+  primaryLight: '#F1FAFA',
+  textPrimary: '#29292B',
+  textSecondary: '#7F7F80',
+  border: '#EEEEEF',
+  backgroundLight: '#F8F8F9',
+  white: '#FFFFFF',
+  surfaceWarm: '#F0F0E8',
+  surfaceCream: '#F5F5F0',
+  requestedBg: '#F0F3F3',
+  requestedText: '#027878',
+  badgeBg: '#E9F7F7',
+};
